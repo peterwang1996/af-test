@@ -1,7 +1,7 @@
-img{
-	position: absolute;
-	left:0;
+#switch-handle {
+	position: fixed;
 	bottom: 0;
+	z-index: 66666;
 }
 
 #aframe{
